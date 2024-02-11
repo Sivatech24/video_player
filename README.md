@@ -1,2 +1,3 @@
 # video_player
-video_player
+
+A new Flutter project.
